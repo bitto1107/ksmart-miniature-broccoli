@@ -1,8 +1,8 @@
 
 ‰Web:DoctypePresenceCheck
-":Insert a <!DOCTYPE> declaration to before this <html> tag.(œ÷ÃûÿÿÿÿJ$c2f555c0-b2c0-4ea7-92c9-f9bb58056a45
+":Insert a <!DOCTYPE> declaration to before this <html> tag.(œ÷ÃûÿÿÿÿJ$5b38abb1-930d-4d04-a867-ead3e70d4ac9
 €	Web:S5254
-"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷ÃûÿÿÿÿJ$df9dc1dd-f9b8-4c83-907b-29d099246330
-nWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(ıñ“J$62fcfa5a-7178-4652-bae6-737dd7c0d79b
-zWeb:TableWithoutCaptionCheck" Add a description to this table.(ä¥…Õıÿÿÿÿ8åÚ¼á1J$3b370d49-675a-4c0a-b03c-9dac5e01af5f
-p	Web:S1827")Remove this deprecated "width" attribute.(ä¥…Õıÿÿÿÿ8åÚ¼á1J$4a0b8938-b2f2-4374-b2dc-7fc14fdc9fac
+"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷ÃûÿÿÿÿJ$347fd566-7b66-4380-a68d-f49157c37a15
+nWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(ıñ“J$72f7db6c-4331-4b95-b69f-4ebb604e4cbf
+zWeb:TableWithoutCaptionCheck" Add a description to this table.(ä¥…Õıÿÿÿÿ8åÚ¼á1J$c7225078-927e-4fa7-9c26-82e13647e643
+p	Web:S1827")Remove this deprecated "width" attribute.(ä¥…Õıÿÿÿÿ8åÚ¼á1J$f1888361-d7cc-440c-90cf-b2a03f5348ce
