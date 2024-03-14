@@ -1,0 +1,10 @@
+
+‰Web:DoctypePresenceCheck
+":Insert a <!DOCTYPE> declaration to before this <html> tag.(œ÷ÃûÿÿÿÿJ$b53a022c-c6bc-4413-a4d2-c1a7bcb72ef4
+€	Web:S5254
+"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷ÃûÿÿÿÿJ$d7f7eea1-2284-48ac-87f9-0b4d23f60acf
+nWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(ıñ“J$9886c06e-db4c-4e89-a837-258747e592a4
+sWeb:TableWithoutCaptionCheck" Add a description to this table.(ä¥…ÕıÿÿÿÿJ$e53d7fb9-c31c-4fd3-a8b3-98335bbe7ee0
+i	Web:S1827")Remove this deprecated "width" attribute.(ä¥…ÕıÿÿÿÿJ$e934000a-f011-44b6-a75f-98a7b07b3ad7
+nWeb:TableWithoutCaptionCheckR" Add a description to this table.(Ã˜€ÊJ$5c478e36-79d7-41f5-849b-94b89811cda9
+`	Web:S5256R"%Add "<th>" headers to this "<table>".(Ã˜€ÊJ$6fb7e51f-6cd6-4ad6-9a6c-da4b0d16abd8

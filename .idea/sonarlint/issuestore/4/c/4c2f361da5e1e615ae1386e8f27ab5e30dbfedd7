@@ -1,0 +1,26 @@
+
+¢
+java:S1192²"^Define a constant instead of duplicating this literal "select tb_user.*, tb_goods.* " 4 times.(Ïƒ ×8ä¨Á¾á1J$6a00f08d-e977-4797-a9f5-4023592933ac
+
+java:S4973Ý"<Strings and Boxed types should be compared using "equals()".(ìã«g8Ì­±¿á1J$1977d8b3-5a20-4109-aff8-b0ec62a00ea9
+—
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(–ëŽìþÿÿÿÿ8û¨Á¾á1J$9547082c-8813-4f42-9873-467b94330364
+r	java:S106"+Replace this use of System.out by a logger.(“×·ôþÿÿÿÿ8ü¨Á¾á1J$b29f2375-d289-4cf4-87cc-fcaf3cf6593f
+x
+java:S2387"5"preparedStatement" is the name of a field in "Mdao".(ÆÃ«ª8õ–¿á1J$a8ac61ef-c01a-47f5-8627-fa5a84972cb6
+q
+java:S2387"."connection" is the name of a field in "Mdao".(ïÆ¥8õ–¿á1J$b98094c9-b442-4a86-948d-0f3d3ea12118
+u
+java:S2387"-"resultSet" is the name of a field in "Mdao".(›÷Œœúÿÿÿÿ8õ–¿á1J$f0b9a61d-e951-4de7-87c6-6627f3afbed7
+™
+java:S3457!"Q%n should be used in place of \n to produce the platform-specific line separator.(Ä²“‹úÿÿÿÿ8€©Á¾á1J$0f6c69c8-9f24-44db-9f56-3acf60f446c4
+™
+java:S3457("Q%n should be used in place of \n to produce the platform-specific line separator.(ø•Íõøÿÿÿÿ8€©Á¾á1J$8f43ae28-6576-459b-884f-3ce8f91c8dcf
+™
+java:S3457-"Q%n should be used in place of \n to produce the platform-specific line separator.(Ó–„¯øÿÿÿÿ8€©Á¾á1J$092eb9a4-ceba-492f-8f57-21cc033e843f
+™
+java:S34571"Q%n should be used in place of \n to produce the platform-specific line separator.(ý˜©ûûÿÿÿÿ8©Á¾á1J$a873d2a9-251d-4214-b213-8f9b1bc34e6f
+™
+java:S3457:"Q%n should be used in place of \n to produce the platform-specific line separator.(ý˜©ûûÿÿÿÿ8‚©Á¾á1J$ec0dab78-bd2c-4d6e-8a67-6235a5295e6c
+™
+java:S3457>"Q%n should be used in place of \n to produce the platform-specific line separator.(æüÞ÷ûÿÿÿÿ8‚©Á¾á1J$27818c1f-1717-4f2e-8c57-cbe2c11022f5

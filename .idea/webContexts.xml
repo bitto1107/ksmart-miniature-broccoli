@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/web/db07khb/ex1test01/Mdao_uInsert_1.jsp" value="file://$PROJECT_DIR$/web/db07khb/ex1test01" />
+        <entry key="file://$PROJECT_DIR$/web/db07khb/goodsinsert/goods_insert_pro.jsp" value="file://$PROJECT_DIR$/web/db07khb/goodsinsert" />
+        <entry key="file://$PROJECT_DIR$/web/db07khb/goodssearch/goods_search_list.jsp" value="file://$PROJECT_DIR$/web/db07khb/goodssearch" />
+        <entry key="file://$PROJECT_DIR$/web/db07khb/goodsupdate/goods_update_form.jsp" value="file://$PROJECT_DIR$/web/db07khb/goodsupdate" />
+        <entry key="file://$PROJECT_DIR$/web/db07khb/layout/top.jsp" value="file://$PROJECT_DIR$/web/db07khb/layout" />
+        <entry key="file://$PROJECT_DIR$/web/db07khb/userinsert/user_insert_action.jsp" value="file://$PROJECT_DIR$/web/db07khb/userinsert" />
+        <entry key="file://$PROJECT_DIR$/web/db07khb/userinsert/user_insert_form.jsp" value="file://$PROJECT_DIR$/web/db07khb/userinsert" />
+        <entry key="file://$PROJECT_DIR$/web/db07khb/userinsert/user_insert_pro.jsp" value="file://$PROJECT_DIR$/web/db07khb/userinsert" />
+        <entry key="file://$PROJECT_DIR$/web/db07khb/userlist/user_list.jsp" value="file://$PROJECT_DIR$/web/db07khb/userlist" />
+        <entry key="file://$PROJECT_DIR$/web/db07khb/usersearch/user_search_list.jsp" value="file://$PROJECT_DIR$/web/db07khb/usersearch" />
+        <entry key="file://$PROJECT_DIR$/web/db07khb/userupdate/user_update_form.jsp" value="file://$PROJECT_DIR$/web/db07khb/userupdate" />
+        <entry key="file://$PROJECT_DIR$/web/goods/goods_insert_pro.jsp" value="file://$PROJECT_DIR$/web/goods" />
+        <entry key="file://$PROJECT_DIR$/web/index.jsp" value="file://$PROJECT_DIR$/web" />
+        <entry key="file://$PROJECT_DIR$/web/mdelete/m_delete_action.jsp" value="file://$PROJECT_DIR$/web/mdelete" />
+        <entry key="file://$PROJECT_DIR$/web/msearch/m_search_list.jsp" value="file://$PROJECT_DIR$/web/msearch" />
+        <entry key="file://$PROJECT_DIR$/web/msearch/m_search_list_backup.jsp" value="file://$PROJECT_DIR$/web/msearch" />
+        <entry key="file://$PROJECT_DIR$/web/mupdate/m_update_action.jsp" value="file://$PROJECT_DIR$/web/mupdate" />
+        <entry key="file://$PROJECT_DIR$/web/mupdate/m_update_form.jsp" value="file://$PROJECT_DIR$/web/mupdate" />
+        <entry key="file://$PROJECT_DIR$/web/uinsert/user_insert_action.jsp" value="file://$PROJECT_DIR$/web/uinsert" />
+        <entry key="file://$PROJECT_DIR$/web/uinsert/user_insert_form.jsp" value="file://$PROJECT_DIR$/web/uinsert" />
+        <entry key="file://$PROJECT_DIR$/web/ulist/user_list.jsp" value="file://$PROJECT_DIR$/web/ulist" />
+        <entry key="file://$PROJECT_DIR$/web/userlogin/user_login_pro.jsp" value="file://$PROJECT_DIR$/web/userlogin" />
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,52 @@
+
+›
+java:S1192X"XDefine a constant instead of duplicating this literal "%s <= resultSetTbUser 
+" 3 times.(¨•ü÷8ÌÏ‰“á1J$1a749748-6f71-448e-b5c3-6178dc1a6b0d
+
+java:S1192i"VDefine a constant instead of duplicating this literal "select * from tb_user" 4 times.(ûÕÒ‹ùÿÿÿÿ8ÍÏ‰“á1J$06b92c05-d9b9-4740-9d0f-f06981a11183
+–
+java:S1192"SDefine a constant instead of duplicating this literal "%s <= connection 
+" 6 times.(æÉ“ş8ÍÏ‰“á1J$43cf871e-8af4-4b96-ba84-1727b58717fa
+{
+java:S2589"7Remove this expression which always evaluates to "true"(ô¼Ó¨8ÜÏ‰“á1J$433ab8b3-f6fe-4f06-b314-63bd83a870c6
+r	java:S106"+Replace this use of System.out by a logger.(“×·ôşÿÿÿÿ8ÜÏ‰“á1J$498fbddc-fd01-40db-8cd7-e9bf56d76d24
+”
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(æÉ“ş8àÏ‰“á1J$14a68635-a69c-43b5-a535-2d5e4c8313c6
+”
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(§¾á´8àÏ‰“á1J$80f1f75c-d3fa-4ffe-b996-05025129e3fb
+}	java:S125#"<This block of commented-out lines of code should be removed.(ÊØ—08àÏ‰“á1J$baac89ee-1999-4406-9b1c-18fa2bf9ad6d
+”
+java:S3457L"Q%n should be used in place of \n to produce the platform-specific line separator.(æÉ“ş8âÏ‰“á1J$d5b1e852-16b3-4d6f-95bf-a53b754a1d84
+”
+java:S3457N"Q%n should be used in place of \n to produce the platform-specific line separator.(§¾á´8âÏ‰“á1J$d917da44-a8f2-4fe3-a8c7-6b53a08bfe98
+”
+java:S3457X"Q%n should be used in place of \n to produce the platform-specific line separator.(¨•ü÷8ãÏ‰“á1J$bfa3697b-56c2-4fe1-baa6-a7e5133711f8
+•
+java:S3457†"Q%n should be used in place of \n to produce the platform-specific line separator.(¥Åù©8åÏ‰“á1J$64c13f35-83f8-4a7c-b7a3-263e770239fc
+i
+java:S3457†"%String contains no format specifiers.(¥Åù©8åÏ‰“á1J$4ea7df04-8886-454a-a8c1-6a2bb9e3bb3b
+n	java:S106†"+Replace this use of System.out by a logger.(¥Åù©8åÏ‰“á1J$ad92c806-cc3f-4bff-8cc3-68d5cc085e6b
+~	java:S125ˆ"<This block of commented-out lines of code should be removed.(–ğ8æÏ‰“á1J$39d051cf-f09e-4e43-b27d-79ce9720dbc5
+•
+java:S3457Š"Q%n should be used in place of \n to produce the platform-specific line separator.(ÙºÜ¾8æÏ‰“á1J$dbcf58cb-eef2-41d0-9924-f9caba4af6bc
+i
+java:S3457Š"%String contains no format specifiers.(ÙºÜ¾8æÏ‰“á1J$358d7481-72bb-41b4-9f4e-d1f997f5455b
+n	java:S106Š"+Replace this use of System.out by a logger.(ÙºÜ¾8æÏ‰“á1J$8e6199fb-c417-48f7-89f1-c4b2a54a5387
+~	java:S125Œ"<This block of commented-out lines of code should be removed.(–ğ8æÏ‰“á1J$6df147f6-897c-4af2-9d4e-8096885d736f
+š
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(‰°ÌŒùÿÿÿÿ8æÏ‰“á1J$5da8baff-fa70-41ba-83f7-ef889d3da0fd
+n
+java:S3457"%String contains no format specifiers.(‰°ÌŒùÿÿÿÿ8æÏ‰“á1J$54157bae-c13c-4678-a0d8-d2ef5e96ab9e
+s	java:S106"+Replace this use of System.out by a logger.(‰°ÌŒùÿÿÿÿ8æÏ‰“á1J$488baf3e-d2f8-4ac1-856b-1b6881a39208
+•
+java:S3457¨"Q%n should be used in place of \n to produce the platform-specific line separator.(æÉ“ş8çÏ‰“á1J$df748d4d-d0d6-464a-8b19-81640e822c0f
+•
+java:S3457®"Q%n should be used in place of \n to produce the platform-specific line separator.(¨•ü÷8èÏ‰“á1J$856d9c4a-4afb-4518-bc02-5a48105aa489
+•
+java:S3457½"Q%n should be used in place of \n to produce the platform-specific line separator.(æÉ“ş8èÏ‰“á1J$e5aaedcf-6aa3-40fa-bdb5-5a9152a0e8e2
+•
+java:S3457Ã"Q%n should be used in place of \n to produce the platform-specific line separator.(¨•ü÷8èÏ‰“á1J$e6e28f86-03ef-47b1-b0d4-2e6ab231cf9d
+•
+java:S3457Í"Q%n should be used in place of \n to produce the platform-specific line separator.(æÉ“ş8éÏ‰“á1J$20612c96-26ef-439c-b315-6c844b9eb8d0
+•
+java:S3457÷"Q%n should be used in place of \n to produce the platform-specific line separator.(æÉ“ş8ëÏ‰“á1J$1c329c15-2944-46a5-a2ea-293816932a26

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="jsp-api">
+    <archive path="D:/hanbitkang/apache-tomcat-9.0.84/lib/jsp-api.jar" />
+    <archive path="D:/hanbitkang/apache-tomcat-9.0.84/lib/servlet-api.jar" />
+  </library>
+  <library name="mysql-connector-java-8.0.28">
+    <archive path="D:/hanbitkang/mysql8_jsp50/mysql8_jsp50/web/lib/mysql-connector-java-8.0.28.jar" />
+  </library>
+</eclipse-userlibraries>
+

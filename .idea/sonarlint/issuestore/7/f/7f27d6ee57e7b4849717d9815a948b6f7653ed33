@@ -1,0 +1,7 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(÷¦‚µúÿÿÿÿ8Ê¦ì”ß1
+O
+java:S4925
+"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8Èéñ”ß1
+R
+java:S6437"6Revoke and change this password, as it is compromised.(—°Çm8ë·ô”ß1
